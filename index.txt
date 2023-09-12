@@ -1,7 +1,8 @@
 Word: [E  y  e] 
+Read the word
 Break the Word
 compare the letter at the beginning to the end
 if equal you can swap
 continue doing until you get to the last word at the middle or a word which cannot be swapped nor replaced 
 If yes [able to swap] then its a palindrome
-If no[not able to swap] then its not palindrome
+If no[not able to swap] then its not palindrome mostly the middle word
